@@ -1,0 +1,16 @@
+{
+  "id": "jhoward/first-steps-road-to-the-top-part-1",
+  "title": "First Steps: Road to the Top, Part 1",
+  "code_file": "first-steps-road-to-the-top-part-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/paddy-disease-classification"
+  ]
+}
